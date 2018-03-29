@@ -2,7 +2,6 @@ import model.Board
 import model.EnumResult
 import model.Knight
 import model.Position
-import java.time.Duration
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.time.temporal.ChronoUnit
